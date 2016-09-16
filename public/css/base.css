@@ -1,0 +1,15 @@
+button {
+  height: auto;
+  line-height: 1.5em;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+button span {
+  display: block;
+  font-size: 0.7em;
+}
+
+.logout-bttn {
+  margin-top: 8px;
+}
